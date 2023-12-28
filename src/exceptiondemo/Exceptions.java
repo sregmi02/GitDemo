@@ -9,7 +9,7 @@ public class Exceptions {
 		
 		try {
 			int c = b/a;
-			if (name.equals("Subrat")) {
+			if (name.equals("Regmi")) {
 				System.out.println("HEHE");
 			}
 			for (int i = 0; i<6; i++) {
